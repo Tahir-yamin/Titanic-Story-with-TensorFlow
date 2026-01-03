@@ -38,4 +38,4 @@ I combined `SibSp` (siblings/spouses) and `Parch` (parents/children) into a sing
 * **Platform**: Kaggle Notebooks
 
 ---
-*Created as part of a learning journey to master Gradient Boosted Trees and Feature Engineering.*
+*Created as part of a learning journey to master Gradient Boosted Trees and Feature Engineering.* 
